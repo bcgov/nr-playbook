@@ -8,7 +8,7 @@
 # Site settings
 title: 'Datawire Docs: The Microservices Playbook'
 description: 'The Microservices Playbook'
-baseurl: ''
+baseurl: 'https://bcgov.github.io/nr-playbook'
 url: ''
 permalink: pretty
 
