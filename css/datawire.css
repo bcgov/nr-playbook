@@ -21,6 +21,7 @@
 /* NOTE
 html is set to 62.5% so that all the REM measurements throughout Skeleton
 are based on 10px sizing. So basically 1.5rem = 15px :) */
+
 html {
   font-size: 62.5%; }
 
@@ -173,11 +174,11 @@ ol.toc li a {
 }
 
 .sidenav .active a, .toc .active a {
-    color: #1EAEDB;
+    color: #6FBB7A;
 }
 
 ol.toc li a:hover {
-    color: #1EAEDB;
+    color: #6FBB7A;
 }
 
  span.toc-heading {
@@ -202,7 +203,7 @@ h1 {
 h2 {
   font-size: 28px;
   font-weight: 400;
-  color: #1EAEDB;
+  color: #3B3B39;
   text-transform: capitalize;
   letter-spacing: .010em;
   margin-top: 30px;
@@ -283,10 +284,10 @@ ul li {
 /* Links
 -------------------------------------------------- */
 a {
-  color: #1EAEDB;
+  color: #3B3B39;
   }
 a:hover {
-  color: #0FA0CE; }
+  color: #3B3B39; }
 
   ::selection {
       background-color: #dddddd;

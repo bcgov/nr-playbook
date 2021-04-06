@@ -8,8 +8,6 @@
 # Site settings
 title: 'Datawire Docs: The Microservices Playbook'
 description: 'The Microservices Playbook'
-baseurl: 'https://bcgov.github.io/nr-playbook'
-url: ''
 permalink: pretty
 
 collections:
@@ -20,3 +18,4 @@ collections:
 # Build settings
 redcarpet:
  extensions: ["no_intra_emphasis", "fenced_code_blocks", "autolink", "tables", "strikethrough", "superscript", "with_toc_data"]
+

@@ -1,11 +1,30 @@
-- title: microservices-playbook
+- title: intro
   children:
-  - should-i-adopt
-  - how-do-i-adopt
-  - how-your-stack-changes
-- title: from-monolith-to-microservices
+  - application-rationalization
+  - evaluate-modernization
+  - choose-your-approach
+- title: containers
   children:
-  - the-microwizard
-  - microservices-in-action
-  - architectural-details
-- title: whats-next
+  - containers-standardized
+  - containers-how-do-they-work
+  - containers-implementation
+  - containers-journey
+  - containers-inventory-app
+  - containers-saas-choose
+- title: data-integration
+  children:
+  - data-storage
+  - data-solutions
+- title: cloud-migration-process
+  children: 
+  - establish-migration-architect-role  
+  - choose-level-cloud-integration  
+  - choose-single-multi-cloud  
+  - establish-cloud-kpi 
+  - establish-performance-baselines  
+  - prioritize-migration-components  
+  - perform-necessary-refactoring  
+  - create-data-migration-plan  
+  - switch-over-production  
+  - review-application-resource-allocation  
+  
